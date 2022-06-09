@@ -13,7 +13,7 @@ Instructions:
 * Sign and Execute a Payment Transaction
 * Inspect the Transaction on Ganache
 
-Below is the a screenshot of the deployed Streamlit application. Unforunatelly error occured.
+Below is the a screenshot of the deployed Streamlit application. Unfortunatelly error occured.
 
 ![streamlit running](Screenshot_5.png) 
 
